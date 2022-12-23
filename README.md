@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou Márcio Paiva
 - 👀 Entusiasta na área de programação
-- 🌱 Iniciando os estudos atualmente
+- 🌱 Iniciando os estudos
 - 📫 Fale comigo pelo LinkedIn @marciopaiva2004 ou pelo e-mail: marciopaivadev@gmail.com
 
 <!---
