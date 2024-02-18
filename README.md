@@ -1,18 +1,22 @@
 ### Olá! Me chamo Márcio Paiva, estudante de Sistemas de Informação na Universidade Federal de Ouro Preto!
 
---- 
-<!-- linguagens e links de contato -->
-<p align="center" style="display: flex; justify-content: space-between;">
-  <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" width="25" height="25"/>    
-  <img align="center" alt="javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="25" height="25"/>
-  <img align="center" alt="c" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="25" height="25"/>
-  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-  <a href = "mailto:marciopaivadev@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marciopaiva2004/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</p>
+---
 
---- 
-<!-- stats do perfil -->
+  #### • Linguagens de Programação
+   <img align="center" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" width="25" height="25"/>&nbsp;
+  <img align="center" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="25" height="25"/>&nbsp;
+   <img align="center" alt="c" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="25"
+height="25"/>
+
+  #### • Contatos
+  <a href="mailto:marciopaivadev@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:george.fons@gmail.com" /></a>
+
+  <a href="https://www.linkedin.com/in/marciopaiva2004/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/diogoleitelucas/" /></a>
+
+---
+
 <p align="center">
 <a href="https://github.com/georgehgfonseca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcio-paiva&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
