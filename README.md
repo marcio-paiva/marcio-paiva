@@ -1,4 +1,8 @@
-### Olá! Me chamo Márcio Paiva, estudante de Sistemas de Informação na Universidade Federal de Ouro Preto!
+###
+
+<p align="left"> 
+  Olá! Me chamo Márcio Paiva, estudante de Sistemas de Informação na Universidade Federal de Ouro Preto!
+</p>
 
 ---
 
