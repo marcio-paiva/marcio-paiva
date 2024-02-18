@@ -6,13 +6,13 @@
 
 ---
 
-  #### • Linguagens de Programação
+  #### ⇒‎ Linguagens de Programação
   <img align="center" alt="c" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="25"
 height="25"/>
    <img align="center" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" width="25" height="25"/>&nbsp;
   <img align="center" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="25" height="25"/>&nbsp;
 
-  #### • Contatos
+  #### ⇒‎ Contatos
   <a href="mailto:marciopaivadev@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:george.fons@gmail.com" /></a>
 
